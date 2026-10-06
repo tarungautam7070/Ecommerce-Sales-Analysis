@@ -166,6 +166,10 @@ This project helps answer questions such as:
 
 ![Product Tooltip](screenshots/product-tooltip.png)
 
+### Customer Details
+
+![Customer Details](screenshots/customer-details.png)
+
 ## Key Learning
 
 This project provided practical experience in Power BI dashboard development, data cleaning, DAX calculations, interactive filtering, product and customer analysis, sales trend analysis, ranking, and business-focused data visualization.
