@@ -166,9 +166,9 @@ This project helps answer questions such as:
 
 ![Product Tooltip](screenshots/product-tooltip.png)
 
-### Customer Details
+### Project Details
 
-![Customer Details](screenshots/customer-details.png)
+![Project Details](screenshots/project-details.png)
 
 ## Key Learning
 
