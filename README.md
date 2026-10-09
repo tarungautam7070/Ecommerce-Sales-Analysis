@@ -154,8 +154,7 @@ This project helps answer questions such as:
 
 ![Executive Overview](screenshots/executive-overview.png)
 
-### Product and Customer Analysis
-
+## Customer and Product Analysis
 ![Product and Customer Analysis](screenshots/product-customer-analysis.png)
 
 ### Advance Analysis
